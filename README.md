@@ -68,6 +68,10 @@ This project analyzes the Netflix Movies and TV Shows dataset using Python's dat
    ```bash
    python run_analysis.py
    ```
+ ## 📈 Screenshots
+ <img width="1290" height="850" alt="Screenshot 2025-09-15 192106" src="https://github.com/user-attachments/assets/ab20557e-6cc6-49f4-a622-92fa80cd436e" />
+<img width="1287" height="878" alt="Screenshot 2025-09-15 192133" src="https://github.com/user-attachments/assets/2d3a8a31-15ef-4161-9998-29b36ac3ac43" />
+
 
 ## 📈 Visualizations Created
 
@@ -201,6 +205,4 @@ The analysis generates a comprehensive 12-panel visualization showing:
 
 This analysis reveals Netflix's strategic approach to content curation, focusing on recent, diverse, and mature content that appeals to a global adult audience. The visualizations provide valuable insights for content creators, marketers, and business strategists in the streaming industry.
 
----
 
-*Created with ❤️ using Python, Seaborn, and Matplotlib*
